@@ -1,3 +1,5 @@
-# springboot-application-properties
+# Spring Boot Application Properties
 
-See https://github.com/PikeCape/springboot-application-properties/wiki
+This repository contains an example implementation how to use the application properties with Spring Boot.
+
+See the [wiki](https://github.com/PikeCape/springboot-application-properties/wiki) for more information.
