@@ -1,2 +1,3 @@
 # springboot-application-properties
-How to use application properties with SpringBoot are run-time and during testing.
+
+See https://github.com/PikeCape/springboot-application-properties/wiki
